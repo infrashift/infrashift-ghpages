@@ -1,0 +1,2 @@
+# infrashift-ghpages
+Static site
